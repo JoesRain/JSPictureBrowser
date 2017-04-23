@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "JSPictureBrowser"
   s.version      = "0.0.1"
-  s.summary      = ""
+  s.summary      = "JoesRain图片浏览器"
   s.homepage     = "https://github.com/JoesRain/JSPictureBrowser"
   s.license      = "MIT"
   s.author       = { "JoesRain" => "505554859@qq.com" }
