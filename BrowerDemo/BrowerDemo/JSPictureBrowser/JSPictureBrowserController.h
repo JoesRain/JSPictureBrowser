@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface JSPictureBrowserController : UIViewController
-
+@property (nonatomic , strong) NSArray *images;
+@property (nonatomic , assign) NSInteger index;
 @end
